@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h2{
+    display: inline-block;
+    height: 20px;
+}
+
+h2 img{
+    height: 30px;
+}
+
+.Navbar{
+    display: flex;
+    background-color: aqua;
+    padding: 16px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    gap: 14px;
+}
+
+/* .logo{
+    height: 50px;
+} */
